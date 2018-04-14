@@ -27,5 +27,9 @@ https://github.com/johnnysw/xiaochengxu.git
 
 # 创建小程序项目
 1. 下载安装小程序开发工具：https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html
+2. 在微信开发者工具中创建项目
+3. 使用webstrom管理git
+
+
 
 
